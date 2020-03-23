@@ -28,20 +28,22 @@ If you use pip, you can install it with:
 **pip install notebook<br>**
 Congratulations, you have installed Jupyter Notebook! To run the notebook, run the following command at the Terminal (Mac/Linux) or Command Prompt (Windows):
 
-jupyter notebook## Built With
+jupyter notebook## 
 
-* C lang
+Built With
+
+* Python 
 
 ## Topics Covered
-* **String Functions**
-* **Dynamic Memory Allocation**
-* **Looping** 
-* **Condition Statements**
-* **Functions**
-* **Modules**
-* **Objects**
-* **Recursive**
-* **Data Types**
-* **ASCII conversion**
-
+* **Linear Regression**
+* **Logistic Regression**
+* **Support Vector Machines** 
+* **K Means Clustering**
+* **K Nearest neighbours**
+* **Numpy**
+* **Seaborn**
+* **Matplotlib**
+* **Decision Trees**
+* **Data Normalization**
+* **Data Standardization**
 
