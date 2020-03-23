@@ -16,13 +16,13 @@ Prerequisite: Python compiler
 While Jupyter runs code in many programming languages, Python is a requirement (Python 3.3 or greater, or Python 2.7) for installing the JupyterLab or the classic Jupyter Notebook.
 
 Installing Jupyter Notebook using Conda
-* **conda**
+* **conda**<br>
 We recommend installing Python and Jupyter using the conda package manager. The miniconda distribution includes a minimal Python and conda installation.
 
 Then you can install the notebook with:
 
 conda install -c conda-forge notebook
-* **pip**
+* **pip**<br>
 If you use pip, you can install it with:
 
 **pip install notebook<br>**
