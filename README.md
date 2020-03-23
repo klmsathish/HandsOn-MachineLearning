@@ -25,7 +25,7 @@ conda install -c conda-forge notebook
 * **pip**
 If you use pip, you can install it with:
 
-pip install notebook
+pip install notebook<br>
 Congratulations, you have installed Jupyter Notebook! To run the notebook, run the following command at the Terminal (Mac/Linux) or Command Prompt (Windows):
 
 jupyter notebook## Built With
